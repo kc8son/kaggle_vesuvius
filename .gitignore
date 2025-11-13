@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Trained models
+*.pkl
+*.h5
+*.pth
+*.pt
+
 # Distribution / packaging
 .Python
 build/
