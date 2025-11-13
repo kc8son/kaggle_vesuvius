@@ -1,2 +1,4 @@
 # kaggle_vesuvius
-Vesuvius Chaalenge from kaggle.com.
+Vesuvius Challenge from kaggle.com.
+
+[dataset-description](https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection/overview/dataset-description)
